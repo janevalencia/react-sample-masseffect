@@ -2,7 +2,7 @@
   "name": "mass-effect-wiki",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://janevalencia.github.io/react-basic",
+  "homepage": "https://janevalencia.github.io/react-sample-masseffect/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
