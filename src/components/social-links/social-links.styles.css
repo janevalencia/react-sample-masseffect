@@ -1,0 +1,17 @@
+.social-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+}
+
+.link:hover {
+    color: #95dada;
+}

@@ -1,0 +1,10 @@
+.split {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.split-left, .split-right {
+    padding: 0 5%;
+}
