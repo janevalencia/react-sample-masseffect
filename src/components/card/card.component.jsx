@@ -1,8 +1,7 @@
 import React from "react";
 import "./card.styles.css";
 
-export const Card = (props) => {
-  return (
+export const Card = props => (
     <li className="card-container">
       <img
         src={`${"/assets/images/"}${props.character.id}${".png"}`}
@@ -13,4 +12,3 @@ export const Card = (props) => {
       <p>{props.character.email}</p>
     </li>
   );
-};
