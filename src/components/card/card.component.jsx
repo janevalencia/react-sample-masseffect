@@ -4,7 +4,7 @@ import "./card.styles.css";
 export const Card = props => (
     <li className="card-container">
       <img
-        src={`${"/assets/images/"}${props.character.id}${".png"}`}
+        src={require(`${"../../../public/assets/images/"}${props.character.id}${".png"}`).default}
         alt="Mass Effect Character"
       />
       <h3>{props.character.name}</h3>
