@@ -28,7 +28,7 @@ class App extends Component {
         },
         {
           icon: "fab fa-github",
-          link: "https://github.com/janevalencia/react-basic/tree/prod/mass-effect-wiki"
+          link: "https://github.com/janevalencia/react-sample-masseffect"
         }
       ]
     };
