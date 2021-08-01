@@ -35,8 +35,8 @@ class App extends Component {
   }
 
   // Fetching characters data from the API
-  componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/users")
+  componentDidMount = async () => {
+    await fetch("https://jsonplaceholder.typicode.com/users")
       .then((res) => res.json())
       .then((users) => this.setState({ characters: users }));
   }
