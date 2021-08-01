@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-sample-masseffect/static/css/main.e9d47c59.chunk.css",
-    "main.js": "/react-sample-masseffect/static/js/main.bc06c48c.chunk.js",
-    "main.js.map": "/react-sample-masseffect/static/js/main.bc06c48c.chunk.js.map",
-    "runtime-main.js": "/react-sample-masseffect/static/js/runtime-main.c7bcf927.js",
-    "runtime-main.js.map": "/react-sample-masseffect/static/js/runtime-main.c7bcf927.js.map",
-    "static/js/2.0afa81bf.chunk.js": "/react-sample-masseffect/static/js/2.0afa81bf.chunk.js",
-    "static/js/2.0afa81bf.chunk.js.map": "/react-sample-masseffect/static/js/2.0afa81bf.chunk.js.map",
-    "static/js/3.e147a779.chunk.js": "/react-sample-masseffect/static/js/3.e147a779.chunk.js",
-    "static/js/3.e147a779.chunk.js.map": "/react-sample-masseffect/static/js/3.e147a779.chunk.js.map",
+    "main.js": "/react-sample-masseffect/static/js/main.5442ccee.chunk.js",
+    "main.js.map": "/react-sample-masseffect/static/js/main.5442ccee.chunk.js.map",
+    "runtime-main.js": "/react-sample-masseffect/static/js/runtime-main.e01564ca.js",
+    "runtime-main.js.map": "/react-sample-masseffect/static/js/runtime-main.e01564ca.js.map",
+    "static/js/2.f4ea2b74.chunk.js": "/react-sample-masseffect/static/js/2.f4ea2b74.chunk.js",
+    "static/js/2.f4ea2b74.chunk.js.map": "/react-sample-masseffect/static/js/2.f4ea2b74.chunk.js.map",
+    "static/js/3.8bbad82a.chunk.js": "/react-sample-masseffect/static/js/3.8bbad82a.chunk.js",
+    "static/js/3.8bbad82a.chunk.js.map": "/react-sample-masseffect/static/js/3.8bbad82a.chunk.js.map",
     "index.html": "/react-sample-masseffect/index.html",
     "static/css/main.e9d47c59.chunk.css.map": "/react-sample-masseffect/static/css/main.e9d47c59.chunk.css.map",
-    "static/js/2.0afa81bf.chunk.js.LICENSE.txt": "/react-sample-masseffect/static/js/2.0afa81bf.chunk.js.LICENSE.txt",
+    "static/js/2.f4ea2b74.chunk.js.LICENSE.txt": "/react-sample-masseffect/static/js/2.f4ea2b74.chunk.js.LICENSE.txt",
     "static/media/1.png": "/react-sample-masseffect/static/media/1.f3d14073.png",
     "static/media/10.png": "/react-sample-masseffect/static/media/10.185e42b0.png",
     "static/media/2.png": "/react-sample-masseffect/static/media/2.366e0917.png",
@@ -24,9 +24,9 @@
     "static/media/9.png": "/react-sample-masseffect/static/media/9.2057044e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7bcf927.js",
-    "static/js/2.0afa81bf.chunk.js",
+    "static/js/runtime-main.e01564ca.js",
+    "static/js/2.f4ea2b74.chunk.js",
     "static/css/main.e9d47c59.chunk.css",
-    "static/js/main.bc06c48c.chunk.js"
+    "static/js/main.5442ccee.chunk.js"
   ]
 }
